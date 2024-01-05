@@ -14,5 +14,3 @@ interactive and entertaining platform for players to enjoy the timeless game of 
 - **Draw Detection:** In case of a tie (draw), the app detects it and allows players to start a new game.
 
 - **New Game Option:** Easily start a new game at any time to continue the fun.
-
-git clone https://github.com/Anand-singh97/tic-tac-toe-app.git
